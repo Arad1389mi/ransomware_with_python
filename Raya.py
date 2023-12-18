@@ -86,4 +86,7 @@ class Makefile:
         with open(self.fname + '|=|' + str(random.randint(10000, 10000000)) + random.choice(['.Raya', '.Zeus', '.Menelaos']), 'wb') as file:
             file.write(self.data)
             file.close()
-        # os.remove(self.ddir)
+        os.remove(self.ddir)
+
+
+# first station !!! is it exciting ??? quick girl !!
