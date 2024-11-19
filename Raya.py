@@ -89,4 +89,3 @@ class Makefile:
         os.remove(self.ddir)
 
 
-# first station !!! is it exciting ??? quick girl !!
